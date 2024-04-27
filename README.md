@@ -18,7 +18,7 @@ Similarly, make a 'Car' class inheriting 'Vehicle', with a 'Display' method.
 Instantiate Car' and 'Scooter', call 'Display' with respective tyre counts.
 
 # PROGRAM:
-Developed By:SETHUKKARASI C
+Developed By:SETHUKKARASI C<br>
 Register Number:212223230201
 ```
 using System;
